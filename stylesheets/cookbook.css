@@ -1,1 +1,5 @@
-.text-code{ font-family: 'Courier New', Courier, monospace; }
+.text-code { font-family: 'Courier New', Courier, monospace; }
+
+.section-header { margin-top: 50px; }
+
+.muted { opacity: 0.5; }
